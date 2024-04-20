@@ -1,7 +1,7 @@
-* Oscar has intercepted the communication between Bob and Alice, he found out the data in the file "Flag"
-* Hints:
-* This genuis encyption algorithm was created by Rivest, Shamir, and Adleman 
+In this challenge, you are given a string that is encrypted along five different levels, each level gives you a passcode to access the next level 
+start with the string specified below:
 
+Moke_f3qmr0s_ii53{!s3_zsusc0q}s!_4gi22xx
 
 
 
